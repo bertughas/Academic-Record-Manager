@@ -16,6 +16,4 @@ Student Record Management System is a simple console-based program written in C 
 2. Run the compiled executable.
 3. Follow the on-screen instructions to navigate through different options.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+#
