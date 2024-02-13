@@ -1,35 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
+# Student Record Management System
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Record Management System</title>
-</head>
+Student Record Management System is a simple console-based program written in C that allows users to manage student records efficiently. The program provides basic functionalities such as adding new student records, listing all student records, updating existing student records, calculating class average, and finding the best-performing student.
 
-<body>
-    <h1>Student Record Management System</h1>
-    <p>A simple console-based student record management system written in C.</p>
+## Features
 
-    <h2>Features</h2>
-    <ul>
-        <li>Add new student records</li>
-        <li>List all student records</li>
-        <li>Update existing student records</li>
-        <li>Calculate class average</li>
-        <li>Find the best-performing student</li>
-    </ul>
+- Add new student records
+- List all student records
+- Update existing student records
+- Calculate class average
+- Find the best-performing student
 
-    <h2>Usage</h2>
-    <p>To use this program:</p>
-    <ol>
-        <li>Compile the program using a C compiler.</li>
-        <li>Run the compiled executable.</li>
-        <li>Follow the on-screen instructions to navigate through different options.</li>
-    </ol>
+## Usage
 
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-</body>
+1. Compile the program using a C compiler.
+2. Run the compiled executable.
+3. Follow the on-screen instructions to navigate through different options.
 
-</html>
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
